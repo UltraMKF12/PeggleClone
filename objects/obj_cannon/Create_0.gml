@@ -1,0 +1,1 @@
+cannon_distance = 80;
