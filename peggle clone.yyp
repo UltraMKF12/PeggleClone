@@ -5,6 +5,7 @@
     {"id":{"name":"spr_blue_ball","path":"sprites/spr_blue_ball/spr_blue_ball.yy",},"order":0,},
     {"id":{"name":"spr_collider","path":"sprites/spr_collider/spr_collider.yy",},"order":2,},
     {"id":{"name":"collide_bounce","path":"scripts/collide_bounce/collide_bounce.yy",},"order":0,},
+    {"id":{"name":"draw_curve","path":"scripts/draw_curve/draw_curve.yy",},"order":1,},
     {"id":{"name":"obj_point_ball","path":"objects/obj_point_ball/obj_point_ball.yy",},"order":2,},
     {"id":{"name":"obj_game_controller","path":"objects/obj_game_controller/obj_game_controller.yy",},"order":0,},
     {"id":{"name":"spr_cursor","path":"sprites/spr_cursor/spr_cursor.yy",},"order":5,},
