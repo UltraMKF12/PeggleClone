@@ -3,6 +3,7 @@
     {"id":{"name":"spr_cannon_body","path":"sprites/spr_cannon_body/spr_cannon_body.yy",},"order":0,},
     {"id":{"name":"obj_ball","path":"objects/obj_ball/obj_ball.yy",},"order":1,},
     {"id":{"name":"spr_blue_ball","path":"sprites/spr_blue_ball/spr_blue_ball.yy",},"order":0,},
+    {"id":{"name":"room1","path":"rooms/room1/room1.yy",},"order":3,},
     {"id":{"name":"spr_collider","path":"sprites/spr_collider/spr_collider.yy",},"order":2,},
     {"id":{"name":"collide_bounce","path":"scripts/collide_bounce/collide_bounce.yy",},"order":0,},
     {"id":{"name":"draw_curve","path":"scripts/draw_curve/draw_curve.yy",},"order":1,},
@@ -34,6 +35,7 @@
     "children": [],
   },
   "RoomOrderNodes": [
+    {"roomId":{"name":"room1","path":"rooms/room1/room1.yy",},},
     {"roomId":{"name":"test_room","path":"rooms/test_room/test_room.yy",},},
     {"roomId":{"name":"parent_room","path":"rooms/parent_room/parent_room.yy",},},
   ],
