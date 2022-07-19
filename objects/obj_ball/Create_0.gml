@@ -1,2 +1,2 @@
-gravity = 0.2;
+gravity = 0;
 speed = 10;
