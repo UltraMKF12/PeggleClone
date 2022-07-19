@@ -13,6 +13,7 @@
     {"id":{"name":"spr_font_number","path":"sprites/spr_font_number/spr_font_number.yy",},"order":6,},
     {"id":{"name":"spr_hole","path":"sprites/spr_hole/spr_hole.yy",},"order":0,},
     {"id":{"name":"obj_cannon","path":"objects/obj_cannon/obj_cannon.yy",},"order":2,},
+    {"id":{"name":"parent_room","path":"rooms/parent_room/parent_room.yy",},"order":2,},
     {"id":{"name":"obj_collider","path":"objects/obj_collider/obj_collider.yy",},"order":3,},
     {"id":{"name":"font_default","path":"fonts/font_default/font_default.yy",},"order":7,},
     {"id":{"name":"spr_cannon_shooter","path":"sprites/spr_cannon_shooter/spr_cannon_shooter.yy",},"order":1,},
@@ -34,6 +35,7 @@
   },
   "RoomOrderNodes": [
     {"roomId":{"name":"test_room","path":"rooms/test_room/test_room.yy",},},
+    {"roomId":{"name":"parent_room","path":"rooms/parent_room/parent_room.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sounds.yy","order":0,"resourceVersion":"1.0","name":"Sounds","tags":[],"resourceType":"GMFolder",},
