@@ -38,8 +38,8 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"room1","path":"rooms/room1/room1.yy",},},
     {"roomId":{"name":"test_room","path":"rooms/test_room/test_room.yy",},},
+    {"roomId":{"name":"room1","path":"rooms/room1/room1.yy",},},
     {"roomId":{"name":"parent_room","path":"rooms/parent_room/parent_room.yy",},},
   ],
   "Folders": [
