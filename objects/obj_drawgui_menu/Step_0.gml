@@ -37,6 +37,7 @@ if(keyboard_check_pressed(vk_enter))
 	{
 		//Play
 		case 0:
+			global.points = 0; // Reset points
 			room_goto(room_1);
 			break;
 			

@@ -15,7 +15,7 @@ if(global.red_balls <= 0)
 	}
 	else
 	{
-		//Score does not reset!
+		//Score does not reset here it resets on PLAY!
 		room_goto(room_title_screen);
 	}
 }

@@ -1,11 +1,16 @@
-/// @description Setting up height, width related variables
+/// @description Text related data setup
 
-//Title Screen
+//Title Text
 game_title = "PeggleClone";
 title_text_height = room_height/7;
 title_text_color = c_orange;
 
-//Selection Screen
+//Final Score
+final_score_text = "Final Score: ";
+final_score_text_height = room_height/3.5;
+final_score_text_color = c_teal;
+
+//Selection Text
 menu_text_height = room_height/1.6;
 menu_text_color = c_white;
 menu_text_highlight_color = c_yellow;
