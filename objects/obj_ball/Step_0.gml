@@ -1,6 +1,6 @@
-/// @description Max speed + Delete not moving
+/// @description Ball movement
 
-speed = clamp(speed, 0, 10);
+speed = clamp(speed, 0, max_speed);
 
 
 //Delete balls that are stuck
