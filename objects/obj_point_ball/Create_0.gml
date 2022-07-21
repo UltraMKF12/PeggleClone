@@ -1,10 +1,10 @@
 /// @description Random Color Change
 
 color = "blue";
-if(!variable_global_exists("red_balls"))
-{
-	global.red_balls = 0;
-}
+//if(!variable_global_exists("red_balls"))
+//{
+//	global.red_balls = 0;
+//}
 
 if(irandom_range(1, 4) == 1)
 {

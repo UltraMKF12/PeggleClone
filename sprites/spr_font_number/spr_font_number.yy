@@ -121,8 +121,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Other",
-    "path": "folders/Objects/Other.yy",
+    "name": "Fonts",
+    "path": "folders/Fonts.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_font_number",

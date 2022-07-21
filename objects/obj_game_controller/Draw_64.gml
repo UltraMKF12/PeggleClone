@@ -1,5 +1,11 @@
 /// @description Red Balls Left + Score
 
+//Don't show score in title screen 
+if(room == room_title_screen)
+{
+	exit;
+}
+
 draw_set_font(font_default);
 draw_set_halign(fa_left);
 draw_set_valign(fa_top);
