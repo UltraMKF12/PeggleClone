@@ -8,6 +8,7 @@
     {"id":{"name":"twoTone1","path":"sounds/twoTone1/twoTone1.yy",},"order":2,},
     {"id":{"name":"obj_drawgui_menu","path":"objects/obj_drawgui_menu/obj_drawgui_menu.yy",},"order":1,},
     {"id":{"name":"spr_collider","path":"sprites/spr_collider/spr_collider.yy",},"order":2,},
+    {"id":{"name":"collision_line_point","path":"scripts/collision_line_point/collision_line_point.yy",},"order":2,},
     {"id":{"name":"collide_bounce","path":"scripts/collide_bounce/collide_bounce.yy",},"order":0,},
     {"id":{"name":"draw_curve","path":"scripts/draw_curve/draw_curve.yy",},"order":1,},
     {"id":{"name":"zap2","path":"sounds/zap2/zap2.yy",},"order":1,},
