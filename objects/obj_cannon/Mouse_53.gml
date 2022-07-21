@@ -6,3 +6,5 @@ with(_ball)
 {
 	direction = _direction;
 }
+
+audio_play_sound(twoTone1, 2, false);
