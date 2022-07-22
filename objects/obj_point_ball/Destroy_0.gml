@@ -12,5 +12,3 @@ if(color == "red")
 
 var _hit_sound = choose(zap1, zap2);
 audio_play_sound(_hit_sound, 1, false);
-
-sequence_create()
