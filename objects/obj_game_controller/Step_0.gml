@@ -6,6 +6,7 @@ if(room == room_title_screen)
 	exit;
 }
 
+//NEED TO OVERHAUL THIS SYSTEM FOR RANDOM ROOM GENERATION
 if(global.red_balls <= 0)
 {
 	global.red_balls = 0;
@@ -15,8 +16,12 @@ if(global.red_balls <= 0)
 	}
 	else
 	{
-		//Score does not reset here it resets on PLAY!
 		room_goto(room_title_screen);
 	}
 }
 
+//Game ends when there is no ball in the field or inventory
+if((instance_number(obj_ball) <= 0) and (global.current_balls <= 0))
+{
+	room_goto(room_title_screen);
+}
