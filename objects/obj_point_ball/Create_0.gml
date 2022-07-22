@@ -1,12 +1,9 @@
 /// @description Random Color Change
 
 color = "blue";
-//if(!variable_global_exists("red_balls"))
-//{
-//	global.red_balls = 0;
-//}
 
-if(irandom_range(1, 4) == 1)
+
+if(irandom_range(1, global.chance_for_red_ball) == 1)
 {
 	sprite_index = spr_red_ball;
 	color = "red";

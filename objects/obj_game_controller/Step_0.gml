@@ -12,6 +12,7 @@ if(global.red_balls <= 0)
 	global.red_balls = 0;
 	if room_exists(room_next(room))
 	{
+		global.current_balls += global.next_room_ball_gift;
 		room_goto_next();
 	}
 	else

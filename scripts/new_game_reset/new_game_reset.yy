@@ -6,7 +6,7 @@
     "path": "folders/Scripts.yy",
   },
   "resourceVersion": "1.0",
-  "name": "draw_curve",
+  "name": "new_game_reset",
   "tags": [],
   "resourceType": "GMScript",
 }
