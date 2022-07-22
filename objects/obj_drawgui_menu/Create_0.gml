@@ -7,7 +7,7 @@ title_text_color = c_orange;
 
 //Final Score
 final_score_text = "Final Score: ";
-final_score_text_height = room_height/3.5;
+final_score_text_height = room_height/2;
 final_score_text_color = c_teal;
 
 //Selection Text
