@@ -8,10 +8,12 @@ var _xx = x + lengthdir_x(cannon_distance, _direction);
 var _yy = y + lengthdir_y(cannon_distance, _direction);
 draw_sprite_ext(spr_cannon_shooter, image_index, _xx, _yy, 1, 1, _direction, c_white, 1);
 
+
 //Need this to later set the ball shooting position
 cannon_x = _xx;
 cannon_y = _yy;
 cannon_direction = _direction;
+
 
 //Projectile line from canon.
 var _collision_point = collision_line_point(_xx, _yy, mouse_x, mouse_y, all, true, true);
