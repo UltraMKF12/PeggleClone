@@ -1,4 +1,4 @@
 # PeggleClone
  Game like Peggle
  
-![Peggle gameplay image](Screenshots/PeggleClone.png)
+![Peggle gameplay](Screenshots/PeggleClone.gif)
