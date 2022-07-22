@@ -9,7 +9,8 @@ if(instance_number(obj_game_controller) > 1)
 cursor_sprite = spr_cursor;
 window_set_cursor(cr_none);
 
-points_to_gain_ball = 200;
+global.points_to_gain_ball = 200;
+global.points_to_gain_ball_progress = 0;
 
 global.current_balls = 2;
 global.points = 0;

@@ -1,13 +1,13 @@
 /// @description Add points
 if(color == "blue")
 {
-	global.points += 10;
+	add_point(10);
 }
 
 if(color == "red")
 {
 	global.red_balls--;
-	global.points += 50;
+	add_point(50);
 }
 
 var _hit_sound = choose(zap1, zap2);
