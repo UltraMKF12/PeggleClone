@@ -9,16 +9,19 @@ if(room == room_title_screen)
 //NEED TO OVERHAUL THIS SYSTEM FOR RANDOM ROOM GENERATION
 if(global.red_balls <= 0)
 {
-	global.red_balls = 0;
-	if room_exists(room_next(room))
-	{
-		global.current_balls += global.next_room_ball_gift;
-		room_goto_next();
-	}
-	else
-	{
-		room_goto(room_title_screen);
-	}
+	//global.red_balls = 0;
+	//if room_exists(room_next(room))
+	//{
+	//	global.current_balls += global.next_room_ball_gift;
+	//	room_goto_next();
+	//}
+	//else
+	//{
+	//	room_goto(room_title_screen);
+	//}
+	
+	global.current_balls += global.next_room_ball_gift;
+	room_restart();
 }
 
 //Game ends when there is no ball in the field or inventory

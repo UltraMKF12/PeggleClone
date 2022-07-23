@@ -16,7 +16,10 @@ cannon_direction = _direction;
 
 
 //Projectile line from canon.
-var _collision_point = collision_line_point(_xx, _yy, mouse_x, mouse_y, all, true, true);
+var _xxx = _xx + lengthdir_x(room_height, _direction);
+var _yyy = _yy + lengthdir_y(room_height, _direction);
+
+var _collision_point = collision_line_point(_xx, _yy, _xxx, _yyy, all, true, true);
 draw_line_width_color(_xx, _yy, _collision_point[1], _collision_point[2], 3, c_grey, c_grey);
 
 

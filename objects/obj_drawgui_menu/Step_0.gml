@@ -38,7 +38,7 @@ if(keyboard_check_pressed(vk_enter))
 		//Play
 		case 0:
 			new_game_reset() // Reset variables
-			room_goto(room_1);
+			room_goto(room_random);
 			break;
 			
 		//Quit

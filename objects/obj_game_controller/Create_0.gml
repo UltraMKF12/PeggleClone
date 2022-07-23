@@ -6,6 +6,10 @@ if(instance_number(obj_game_controller) > 1)
 	instance_destroy();
 }
 
+// Make the generation random every time.
+randomize();
+
+// Custom cursor
 cursor_sprite = spr_cursor;
 window_set_cursor(cr_none);
 
@@ -27,7 +31,7 @@ global.points_to_gain_ball = 200;
 global.points_to_gain_ball_progress = 0;
 
 //Amount of shooting balls the player will start with
-global.starting_balls = 2;
+global.starting_balls = 3;
 
 //Gain balls when stepping into next room
 global.next_room_ball_gift = 2;
