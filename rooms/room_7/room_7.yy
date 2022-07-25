@@ -46,6 +46,7 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_point_ball","path":"objects/obj_point_ball/obj_point_ball.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":224.0,"y":288.0,"resourceVersion":"1.0","name":"inst_5BA9F34","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_point_ball","path":"objects/obj_point_ball/obj_point_ball.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":64.0,"y":288.0,"resourceVersion":"1.0","name":"inst_16B1A576","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_point_ball","path":"objects/obj_point_ball/obj_point_ball.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":288.0,"y":192.0,"resourceVersion":"1.0","name":"inst_394ECF4D","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_point_ball","path":"objects/obj_point_ball/obj_point_ball.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":160.0,"y":288.0,"resourceVersion":"1.0","name":"inst_11284A44","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":true,"inheritLayerSettings":true,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_collider","path":"objects/obj_collider/obj_collider.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":24.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":{"name":"inst_74B1D3B0_1","path":"rooms/parent_room/parent_room.yy",},"frozen":false,"ignore":false,"inheritItemSettings":true,"x":-32.0,"y":0.0,"resourceVersion":"1.0","name":"inst_74B1D3B0_1","tags":[],"resourceType":"GMRInstance",},
@@ -90,6 +91,7 @@
     {"name":"inst_5BA9F34","path":"rooms/room_7/room_7.yy",},
     {"name":"inst_16B1A576","path":"rooms/room_7/room_7.yy",},
     {"name":"inst_394ECF4D","path":"rooms/room_7/room_7.yy",},
+    {"name":"inst_11284A44","path":"rooms/room_7/room_7.yy",},
   ],
   "inheritCreationOrder": true,
   "sequenceId": null,
