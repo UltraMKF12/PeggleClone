@@ -37,7 +37,7 @@ global.starting_balls = 3;
 global.next_room_ball_gift = 2;
 
 //Currently available shootable balls.
-global.current_balls = 0;
+global.current_balls = 0;                          
 
 //Custom font for points and shooting ball text.
 global.font_number = font_add_sprite_ext(spr_font_number, "0123456789x%.", true, 3);
